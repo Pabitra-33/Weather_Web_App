@@ -1,4 +1,4 @@
-# ⛈⛅ Weather_Web_Application 
+# ⛈ Weather_Web_Application ⛅
 ![Alt Text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/Google-Weather-icon.png) <br>
 A weather web application which can give you any places exact weather information such as temp, wind speed and humidity.<br>
 
